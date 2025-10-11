@@ -20,9 +20,9 @@ hero:
 <!-- 双卡片 -->
 <div class="home-cards">
   <section class="intro-card">
-    <p class="intro-hi">你好，我是Sinx，很高兴认识你 👋</p>
-    <h1 class="big-title">🌆 <span class="white-title">一个兴趣使然的探索者.</span></h1>
-    <p class="intro-roles">学习笔记 / 生活记录 / 思考漫游 / 游戏测评</p>
+    <p class="intro-hi">Hi, 我是Charles Donne｜INTP  👋</p>
+    <h1 class="big-title">🌃 <span class="white-title">冒险家，保持好奇心～.</span></h1>
+    <p class="intro-roles">学习探索 / 生活记录 / 思考漫游 / 旅行冒险</p>
   </section>
 
   <section class="motto-card">
@@ -37,12 +37,17 @@ hero:
   <section class="motto-card">
     <div class="motto-chip">🎓 Education</div>
     <ul style="margin:0; padding-left: 18px;">
-      <li>🏫 <strong>University of Electronic Science and Technology of China</strong><br>
-          💻 B.S. Candidate in Communication Engineering · 2022–2026
+      <li>🏫 <strong>Central South University 中南大学</strong><br>
+          💻 B.S. Candidate in Electronic Information Science and Technology · 2022–2026
       </li>
       <br>
-      <li>🎓 <strong>Shanghai Jiao Tong University</strong><br>
-          📖 Ph.D. Candidate in Electronic Information Engineering, Media Lab · 2026.09 – 2031.06 (Expected)
+      <li>🎓 <strong>Shanghai Jiao Tong University 上海交通大学</strong><br>
+          📖 Ph.D. Candidate in Information and Communication Engineering, Image Lab · 2026.09 – 2031.06 (Expected)
+      </li>
+      <br>
+      <li>✨ <strong>Interests：Agent ｜ Robotics ｜ VLN</strong><br>
+          🧑‍🤝‍🧑 Welcome to Communicate, Discuss and Learn Together<br>
+          📧 Contact：<a href="mailto:CharlesDonne@163.com" style="color: #87ceeb; text-decoration: underline;">CharlesDonne@163.com</a>
       </li>
     </ul>
   </section>
@@ -50,9 +55,11 @@ hero:
   <section class="motto-card">
     <div class="motto-chip">⚡️ Interests</div>
     <ul style="margin:0; padding-left: 18px;">
-      <li>📖 <strong>Reading</strong>: Literature and science fiction — recently enjoyed <em>The Bright Nights</em> and <em>Is Your Summer Okay?</em></li>
-      <li>🎵 <strong>Music</strong>: Rock, electronic, and pop; especially <em>My Chemical Romance</em> and <em>Xijun Liu</em></li>
-      <li>🎮 <strong>Games</strong>: RPG, AVG — favorites include <em>Arknights</em>, <em>Baldur’s Gate 3</em>, <em>Final Fantasy VII Rebirth</em>, <em>The Sinking Will</em>, and <em>Cyberpunk 2077</em></li>
+      <li>📖 <strong>Reading</strong>:</li>
+      <li>🎵 <strong>Music</strong>: </li>
+      <li>⛰️ <strong>Journey</strong>: </li>
+      <li>🤖 <strong>Technology</strong>: </li>
+      <li>🎮 <strong>Games</strong>: </li>
     </ul>
   </section>
 </div>
