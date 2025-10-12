@@ -28,14 +28,6 @@ export const friendsInfo: Friend[] = [
   //    tag: "CSU EE",
   //    color: "sky",
   //  },
-   {
-     avatar: "https://avatars.githubusercontent.com/u/172581617?v=4",
-     name: "SinxHuang",
-     title: "🐱 CV & LLM & Model Compression",
-     link: "https://sinxhuang.vercel.app/",
-     tag: "UESTC EE",
-     color: "sky",
-   },
      {
      avatar: "https://avatars.githubusercontent.com/u/133973090?v=4",
      name: "Wantao Wen",
@@ -43,6 +35,14 @@ export const friendsInfo: Friend[] = [
      link: "https://github.com/orivine",
      tag: "SEU AI",
      color: "indigo",
+   },
+      {
+     avatar: "https://avatars.githubusercontent.com/u/172581617?v=4",
+     name: "SinxHuang",
+     title: "🐱 CV & LLM & Model Compression",
+     link: "https://sinxhuang.vercel.app/",
+     tag: "UESTC EE",
+     color: "sky",
    },
   {
      avatar: "https://avatars.githubusercontent.com/u/129192766?v=4",
