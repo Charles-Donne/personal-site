@@ -52,6 +52,14 @@ export const friendsInfo: Friend[] = [
      tag: "HIT SE",
      color: "emerald",  // 改为深绿色
    },
+  {
+     avatar: "https://avatars.githubusercontent.com/u/120930809?v=4",
+     name: "Chenxi Li",
+     title: "🤖 Robot for Experiments & Agent",
+     link: "https://github.com/Xeraphael",
+     tag: "CSU SE",
+     color: "emerald",  // 改为深绿色
+   },
     {
      avatar: "https://avatars.githubusercontent.com/u/141605571?v=4",
      name: "Poet Shuting",
@@ -59,6 +67,14 @@ export const friendsInfo: Friend[] = [
      link: "https://github.com/Stephentting",
      tag: "UESTC EE",
      color: "sky",
+   },
+     {
+     avatar: "https://avatars.githubusercontent.com/u/113997895?v=4",
+     name: "Bobby-Ling",
+     title: "💻 Computer Architecture & Storage",
+     link: "https://github.com/Bobby-Ling",
+     tag: "HUST CS",
+     color: "emerald",  // 改为深绿色
    },
      {
      avatar: "https://avatars.githubusercontent.com/u/135297480?v=4",
