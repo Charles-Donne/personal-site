@@ -14,15 +14,19 @@ types:
   - name: "Learning"
     desc: "学习思考 & 经验分享"
     link: "/Notes/learning/"
-    icon: "📑"
+    icon: "📚"
   - name: "Philosophy"
     desc: "关于人生、价值观与生活的思考"
     link: "/Notes/philosophy/"
     icon: "💭"
   - name: "Journey"
-    desc: "记录人生路上的美好瞬间"
+    desc: "永远在路上，记录美好瞬间～"
     link: "/Notes/journey/"
-    icon: "👣"
+    icon: "🏕️"
+  - name: "Life"
+    desc: "生活中的小确幸"
+    link: "/Notes/life/"
+    icon: "🎶"
 # flow: true
 ---
 

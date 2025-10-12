@@ -58,16 +58,16 @@ hero:
       <li>📖 <strong><a href="/Notes/learning/" style="color: #87ceeb; text-decoration: none;">Learning</a></strong> : 跨域学习爱好者，<br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从数学物理到AI前沿，享受逻辑推导的魅力 🧠
       </li>
-      <li>🌍 <strong><a href="/Notes/journey/" style="color: #87ceeb; text-decoration: none;">Journey</a></strong> : 探险家 & 冒险家，<br>
+      <li>🌍 <strong><a href="/Notes/journey/" style="color: #98d8e8; text-decoration: none;">Journey</a></strong> : 探险家 & 冒险家，<br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;身体和心灵总要有一个在路上✈️
       </li>
-      <li>🤖 <strong><a href="/Notes/technology/" style="color: #87ceeb; text-decoration: none;">Technology</a></strong> : 技术狂人，<br>
+      <li>🤖 <strong><a href="/Notes/technology/" style="color: #74c0fc; text-decoration: none;">Technology</a></strong> : 技术狂人，<br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关注前沿科技动态，欢迎技术交流 🚀
       </li>
-      <li>🎮 <strong>Games</strong>: 偷闲人，<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Games & Music & Food & More～🎵
+      <li>🎮 <strong><a href="/Notes/life/" style="color: #a8dadc; text-decoration: none;">Life</a></strong>: 偷闲人，<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Games & Music & Food & More～🍦
       </li>
-      <li>💭 <strong><a href="/Notes/philosophy/" style="color: #87ceeb; text-decoration: none;">Philosophy</a></strong> : 哲学家，<br>
+      <li>💭 <strong><a href="/Notes/philosophy/" style="color: #b8e4ff; text-decoration: none;">Philosophy</a></strong> : 哲学家，<br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关于人生、价值观与生活的思考 🤔
       </li>
     </ul>
