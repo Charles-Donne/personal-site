@@ -14,7 +14,7 @@ types:
   - name: "Learning"
     desc: "学习思考 & 经验分享"
     link: "/Notes/learning/"
-    icon: "👣"
+    icon: "📑"
   - name: "Philosophy"
     desc: "关于人生、价值观与生活的思考"
     link: "/Notes/philosophy/"
