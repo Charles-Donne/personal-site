@@ -53,22 +53,22 @@ hero:
   </section>
 
   <section class="motto-card">
-    <div class="motto-chip">⚡️ Interests (🔗blog)</div>
+    <div class="motto-chip">⚡️ Interests (🔗Blogs)</div>
     <ul style="margin:0; padding-left: 18px;">
       <li>📖 <strong><a href="/Notes/learning/" style="color: #87ceeb; text-decoration: none;">Learning</a></strong> : 跨域学习爱好者，<br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从数学物理到AI前沿，享受逻辑推导的魅力 🧠
       </li>
-      <li>🌍 <strong><a href="/Notes/journey/" style="color: #87ceeb; text-decoration: none;">Journey</a></strong> : 世界探索者，<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;足迹遍布多国，用心感受不同文化的魅力 ✈️
+      <li>🌍 <strong><a href="/Notes/journey/" style="color: #87ceeb; text-decoration: none;">Journey</a></strong> : 探险家 & 冒险家，<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;身体和心灵总要有一个在路上✈️
       </li>
-      <li>🤖 <strong><a href="/Notes/technology/" style="color: #87ceeb; text-decoration: none;">Technology</a></strong> : 技术追踪者，<br>
+      <li>🤖 <strong><a href="/Notes/technology/" style="color: #87ceeb; text-decoration: none;">Technology</a></strong> : 技术狂人，<br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关注前沿科技动态，欢迎技术交流 🚀
       </li>
-      <li>🎮 <strong>Games</strong>: 开放世界游戏爱好者，<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;虽忙碌但依然保持游戏热情 🎯
+      <li>🎮 <strong>Games</strong>: 偷闲人，<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Games & Music & Food & More～🎵
       </li>
-      <li>💭 <strong><a href="/Notes/philosophy/" style="color: #87ceeb; text-decoration: none;">Philosophy</a></strong> : 人生思辨者，<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;热爱哲学思考与思维训练 🤔
+      <li>💭 <strong><a href="/Notes/philosophy/" style="color: #87ceeb; text-decoration: none;">Philosophy</a></strong> : 哲学家，<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关于人生、价值观与生活的思考 🤔
       </li>
     </ul>
   </section>
