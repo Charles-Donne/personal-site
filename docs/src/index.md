@@ -21,7 +21,7 @@ hero:
 <div class="home-cards">
   <section class="intro-card">
     <p class="intro-hi">Hi, 我是Charles Donne｜INTP  👋</p>
-    <h1 class="big-title">🌃 <span class="white-title">冒险家，保持好奇心～.</span></h1>
+    <h1 class="big-title">🌃 <span class="white-title">冒险家，保持好奇心</span></h1>
     <p class="intro-roles">学习探索 / 生活记录 / 思考漫游 / 旅行冒险</p>
   </section>
 
@@ -55,11 +55,21 @@ hero:
   <section class="motto-card">
     <div class="motto-chip">⚡️ Interests</div>
     <ul style="margin:0; padding-left: 18px;">
-      <li>📖 <strong>Reading</strong>:</li>
-      <li>🎵 <strong>Music</strong>: </li>
-      <li>⛰️ <strong>Journey</strong>: </li>
-      <li>🤖 <strong>Technology</strong>: </li>
-      <li>🎮 <strong>Games</strong>: </li>
+      <li>📖 <strong>Learning</strong>: 跨域学习爱好者，<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从数学物理到AI前沿，享受逻辑推导的魅力 🧠
+      </li>
+      <li>🌍 <strong>Journey</strong>: 世界探索者，<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;足迹遍布多国，用心感受不同文化的魅力 ✈️
+      </li>
+      <li>🤖 <strong>Technology</strong>: 技术追踪者，<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关注前沿科技动态，欢迎技术交流 🚀
+      </li>
+      <li>🎮 <strong>Games</strong>: 开放世界游戏爱好者，<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;虽忙碌但依然保持游戏热情 🎯
+      </li>
+      <li>💭 <strong>Philosophy</strong>: 人生思辨者，<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;热爱哲学思考与思维训练 🤔
+      </li>
     </ul>
   </section>
 </div>
