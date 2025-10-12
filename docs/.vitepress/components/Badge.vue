@@ -19,6 +19,8 @@ const getColor = computed(() => {
       return "bg-orange-500";
     case "green":
       return "bg-green-500";
+    case "emerald":
+      return "bg-emerald-600";    // 深绿色
     default:
       return "bg-gray-500";
   }

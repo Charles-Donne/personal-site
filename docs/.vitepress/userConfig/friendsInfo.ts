@@ -36,13 +36,21 @@ export const friendsInfo: Friend[] = [
      tag: "UESTC EE",
      color: "sky",
    },
+     {
+     avatar: "https://avatars.githubusercontent.com/u/133973090?v=4",
+     name: "Wantao Wen",
+     title: "🌍 Agent & LLM & World Model",
+     link: "https://github.com/orivine",
+     tag: "SEU AI",
+     color: "indigo",
+   },
   {
-     avatar: "https://avatars.githubusercontent.com/u/135297480?v=4",
-     name: "Zihao Ma",
-     title: "🐎 President Ma & Lao Ma",
-     link: "https://github.com/mzhhhh666",
-     tag: "CSU EE",
-     color: "sky",
+     avatar: "https://avatars.githubusercontent.com/u/129192766?v=4",
+     name: "Lingshuai Lin",
+     title: "💪 Multimodal Language Model",
+     link: "https://github.com/LingshuaiLin",
+     tag: "HIT SE",
+     color: "emerald",  // 改为深绿色
    },
     {
      avatar: "https://avatars.githubusercontent.com/u/141605571?v=4",
@@ -52,12 +60,20 @@ export const friendsInfo: Friend[] = [
      tag: "UESTC EE",
      color: "sky",
    },
+     {
+     avatar: "https://avatars.githubusercontent.com/u/135297480?v=4",
+     name: "Zihao Ma",
+     title: "🐎 President Ma & Lao Ma",
+     link: "https://github.com/mzhhhh666",
+     tag: "CSU EE",
+     color: "sky",
+   },
    {
      avatar: "https://avatars.githubusercontent.com/u/224218150?v=4",
      name: "Jianfeng Xiao",
      title: "🤖 Robotics Manipulation & Locomotion",
      link: "https://github.com/jfxiao-165788",
      tag: "NUDT CS",
-     color: "indigo",
+     color: "emerald",  // 改为深绿色
    },
 ];
