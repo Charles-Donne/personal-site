@@ -85,6 +85,14 @@ export const friendsInfo: Friend[] = [
     color: "emerald",  // 改为深绿色
   },
   {
+    avatar: "https://mingyang2004.github.io/images/profile1.png",
+    name: "Mingyang Shi",
+    title: "⚙️ LLM & Model Compression",
+    link: "https://mingyang2004.github.io/",
+    tag: "DUT SE",
+    color: "emerald",  // 改为深绿色
+  },
+  {
     avatar: "https://avatars.githubusercontent.com/u/143151244?v=4",
     name: "Boning Zhang",
     title: "🔍 RAG",
