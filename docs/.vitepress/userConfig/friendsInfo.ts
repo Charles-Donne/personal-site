@@ -93,14 +93,6 @@ export const friendsInfo: Friend[] = [
     color: "emerald",  // 改为深绿色
   },
   {
-    avatar: "https://avatars.githubusercontent.com/u/143151244?v=4",
-    name: "Boning Zhang",
-    title: "🔍 RAG",
-    link: "https://github.com/Roon1611",
-    tag: "SEU CS",
-    color: "emerald",  // 改为深绿色
-  },
-  {
     avatar: "https://avatars.githubusercontent.com/u/135297480?v=4",
     name: "Zihao Ma",
     title: "🐎 President Ma & Lao Ma",
