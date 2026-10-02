@@ -21,7 +21,7 @@ hero:
 <div class="home-cards">
   <section class="intro-card">
     <p class="intro-hi">Hi, 我是Charles Donne｜INTP  👋</p>
-    <h1 class="big-title">🌃 <span class="white-title">冒险家，保持好奇心</span></h1>
+    <h2 class="big-title">🌃 <span class="white-title">冒险家，保持好奇心</span></h2>
     <p class="intro-roles">学习探索 / 生活记录 / 思考漫游 / 旅行冒险</p>
   </section>
 
@@ -33,7 +33,7 @@ hero:
 </div>
 
 <!-- 第二行双卡片：Education / Interests -->
-<div class="home-cards" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px;">
+<div class="home-cards">
   <section class="motto-card">
     <div class="motto-chip">🎓 Education</div>
     <ul style="margin:0; padding-left: 18px;">
