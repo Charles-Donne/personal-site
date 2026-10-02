@@ -53,7 +53,6 @@ description:
       //{ text: "👋 AboutMe", link: "/AboutMe.md" },
       { text: "💭 Blogs", link: "/Notes/index" },
       { text: "🦄 Projects", link: "Projects.md" },
-      { text: "👫 Friends", link: "Friends.md" },
     ],
     // 顶部导航栏左侧的社交平台跳转
     socialLinks: [{ icon: "github", link: "https://github.com/Charles-Donne" }],
