@@ -52,6 +52,9 @@
   margin: 0 0 10px;
 }
 .intro-card .big-title {
+  display: block;
+  overflow: visible;
+  -webkit-line-clamp: unset;
   font-size: clamp(28px, 3.8vw, 44px);
   line-height: 1.18;
   margin: 6px 0 14px;
